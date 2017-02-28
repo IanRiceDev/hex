@@ -1,0 +1,47 @@
+('C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\build\\Main\\Main.exe',
+ True,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1"><assemblyIdentity name="Main" processorArchitecture="amd64" type="win32" version="1.0.0.0"/><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/></application></compatibility></assembly>',
+ True,
+ 'Main.pkg',
+ [('out00-PYZ.pyz',
+   'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\build\\Main\\out00-PYZ.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\site-packages\\pyinstaller-3.2.1-py3.5.egg\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\site-packages\\pyinstaller-3.2.1-py3.5.egg\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\site-packages\\pyinstaller-3.2.1-py3.5.egg\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\site-packages\\pyinstaller-3.2.1-py3.5.egg\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('Main', 'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\Main.py', 'PYSOURCE'),
+  ('Main.exe.manifest',
+   'C:\\Users\\Ian '
+   'Rice\\Documents\\GitHub\\hex\\build\\Main\\Main.exe.manifest',
+   'BINARY')],
+ [],
+ False,
+ False,
+ 1488308891,
+ [('run.exe',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\site-packages\\pyinstaller-3.2.1-py3.5.egg\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
+   'EXECUTABLE')])

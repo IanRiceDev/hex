@@ -1,4 +1,4 @@
-from codes import *
+from hexCodes import *
 print("1 = encode")
 print("2 = decode")
 userSelect = input("Make a selection: ")

@@ -66,3 +66,5 @@ if userSelect == "2":
             break
         print(hexTotext[userInput[i - 1]], end='')
     input()
+else:
+    print("Please enter a valid number")

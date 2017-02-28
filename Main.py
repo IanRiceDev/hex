@@ -33,6 +33,7 @@ if userSelect == "1":
         if i > userOutputLan:
             break
         print(textTohex[useroutput[i - 1]] + " ", end='')
+    input()
 if userSelect == "2":
     rawUserInput = input("enter text to decode: ")
     userInput = rawUserInput
@@ -64,3 +65,4 @@ if userSelect == "2":
         if i > userOutputLan:
             break
         print(hexTotext[userInput[i - 1]], end='')
+    input()

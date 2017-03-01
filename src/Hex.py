@@ -1,6 +1,9 @@
-import pprint
+import ctypes
+ctypes.windll.kernel32.SetConsoleTitleW("HEX")
+from hexCodes import *
+
 while True:
-    from hexCodes import *
+
     print("1 = Encode")
     print("2 = Decode")
     print("3 = Exit")

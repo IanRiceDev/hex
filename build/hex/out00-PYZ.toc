@@ -103,10 +103,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\ctypes\\_endian.py',
    'PYMODULE'),
-  ('ctypes',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\ctypes\\__init__.py',
-   'PYMODULE'),
   ('ctypes.wintypes',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\ctypes\\wintypes.py',
@@ -407,6 +403,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\logging\\__init__.py',
    'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pprint.py',
+   'PYMODULE'),
   ('unittest.case',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\case.py',
@@ -443,13 +443,13 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\doctest.py',
    'PYMODULE'),
-  ('quopri',
+  ('stringprep',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\quopri.py',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
    'PYMODULE'),
-  ('struct',
+  ('base64',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.py',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\base64.py',
    'PYMODULE'),
   ('stat',
    'C:\\Users\\Ian '
@@ -487,6 +487,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
    'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.py',
+   'PYMODULE'),
   ('token',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\token.py',
@@ -511,17 +515,9 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\getopt.py',
    'PYMODULE'),
-  ('base64',
+  ('quopri',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\base64.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('warnings',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\warnings.py',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\quopri.py',
    'PYMODULE'),
   ('_compression',
    'C:\\Users\\Ian '
@@ -551,10 +547,14 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\bz2.py',
    'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\warnings.py',
+   'PYMODULE'),
   ('hexCodes',
    'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\src\\hexCodes.py',
    'PYMODULE'),
-  ('pprint',
+  ('ctypes',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pprint.py',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\ctypes\\__init__.py',
    'PYMODULE')])

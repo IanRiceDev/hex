@@ -30,17 +30,9 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pickle.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
-   'PYMODULE'),
   ('__future__',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\__future__.py',
-   'PYMODULE'),
-  ('argparse',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\argparse.py',
    'PYMODULE'),
   ('difflib',
    'C:\\Users\\Ian '
@@ -57,10 +49,6 @@
   ('inspect',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\inspect.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\os.py',
    'PYMODULE'),
   ('cmd',
    'C:\\Users\\Ian '
@@ -222,10 +210,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tempfile.py',
    'PYMODULE'),
-  ('subprocess',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\subprocess.py',
-   'PYMODULE'),
   ('tty',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tty.py',
@@ -237,10 +221,6 @@
   ('pydoc_data.topics',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pydoc_data\\topics.py',
-   'PYMODULE'),
-  ('textwrap',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\textwrap.py',
    'PYMODULE'),
   ('html.entities',
    'C:\\Users\\Ian '
@@ -281,10 +261,6 @@
   ('uu',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\uu.py',
-   'PYMODULE'),
-  ('quopri',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\quopri.py',
    'PYMODULE'),
   ('email.feedparser',
    'C:\\Users\\Ian '
@@ -337,10 +313,6 @@
   ('email.charset',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\email\\charset.py',
-   'PYMODULE'),
-  ('base64',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\base64.py',
    'PYMODULE'),
   ('email._encoded_words',
    'C:\\Users\\Ian '
@@ -398,21 +370,9 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tarfile.py',
    'PYMODULE'),
-  ('bz2',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\bz2.py',
-   'PYMODULE'),
-  ('_compression',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_compression.py',
-   'PYMODULE'),
   ('lzma',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\lzma.py',
-   'PYMODULE'),
-  ('dummy_threading',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\dummy_threading.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Users\\Ian '
@@ -426,10 +386,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\shutil.py',
    'PYMODULE'),
-  ('selectors',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\selectors.py',
-   'PYMODULE'),
   ('socket',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\socket.py',
@@ -441,30 +397,6 @@
   ('pydoc',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pydoc.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
-   'PYMODULE'),
-  ('struct',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.py',
-   'PYMODULE'),
-  ('token',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\token.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('gettext',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\gettext.py',
-   'PYMODULE'),
-  ('getopt',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\getopt.py',
    'PYMODULE'),
   ('pdb',
    'C:\\Users\\Ian '
@@ -482,25 +414,9 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\string.py',
    'PYMODULE'),
-  ('_threading_local',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_threading_local.py',
-   'PYMODULE'),
-  ('threading',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\threading.py',
-   'PYMODULE'),
   ('logging',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\logging\\__init__.py',
-   'PYMODULE'),
-  ('pprint',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pprint.py',
-   'PYMODULE'),
-  ('contextlib',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\contextlib.py',
    'PYMODULE'),
   ('unittest.case',
    'C:\\Users\\Ian '
@@ -510,18 +426,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\suite.py',
    'PYMODULE'),
-  ('stat',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stat.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\posixpath.py',
-   'PYMODULE'),
   ('fnmatch',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\fnmatch.py',
@@ -530,10 +434,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\loader.py',
    'PYMODULE'),
-  ('warnings',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\warnings.py',
-   'PYMODULE'),
   ('unittest.runner',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\runner.py',
@@ -541,14 +441,6 @@
   ('unittest.main',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\main.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\enum.py',
-   'PYMODULE'),
-  ('signal',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\signal.py',
    'PYMODULE'),
   ('unittest.signals',
    'C:\\Users\\Ian '
@@ -562,28 +454,132 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\doctest.py',
    'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\quopri.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\enum.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\os.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\token.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\argparse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\gettext.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\getopt.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\base64.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\warnings.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_compression.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\threading.py',
+   'PYMODULE'),
   ('_dummy_thread',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_dummy_thread.py',
    'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\bz2.py',
+   'PYMODULE'),
   ('hexCodes',
    'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\src\\hexCodes.py',
-   'PYMODULE')],
- [('python35.dll',
+   'PYMODULE'),
+  ('pprint',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pprint.py',
+   'PYMODULE')],
+ [('VCRUNTIME140.dll',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python35.dll',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
    'BINARY'),
   ('_ssl',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_ssl.pyd',
-   'EXTENSION'),
-  ('unicodedata',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('_ctypes',
    'C:\\Users\\Ian '
@@ -597,14 +593,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_hashlib.pyd',
    'EXTENSION'),
-  ('select',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\select.pyd',
-   'EXTENSION'),
-  ('_bz2',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_bz2.pyd',
-   'EXTENSION'),
   ('_lzma',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_lzma.pyd',
@@ -612,6 +600,18 @@
   ('_socket',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_bz2.pyd',
    'EXTENSION')],
  [],
  [],

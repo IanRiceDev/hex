@@ -33,21 +33,17 @@
   ('HEX',
    'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\src\\HEX.py',
    'PYSOURCE'),
-  ('python35.dll',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
-   'BINARY'),
   ('VCRUNTIME140.dll',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
    'BINARY'),
+  ('python35.dll',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
+   'BINARY'),
   ('_ssl',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_ssl.pyd',
-   'EXTENSION'),
-  ('unicodedata',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('_ctypes',
    'C:\\Users\\Ian '
@@ -61,14 +57,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_hashlib.pyd',
    'EXTENSION'),
-  ('select',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\select.pyd',
-   'EXTENSION'),
-  ('_bz2',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_bz2.pyd',
-   'EXTENSION'),
   ('_lzma',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_lzma.pyd',
@@ -76,6 +64,18 @@
   ('_socket',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_bz2.pyd',
    'EXTENSION'),
   ('base_library.zip',
    'C:\\Users\\Ian '

@@ -1,3 +1,4 @@
+import pprint
 while True:
     from hexCodes import *
     print("1 = Encode")
@@ -9,9 +10,6 @@ while True:
         rawUserInput = input("enter text to encode: ")
         userInput = rawUserInput
 
-        def makeUpperCase():
-            global userInput
-            userInput = userInput.upper()
 
 
 
@@ -20,7 +18,7 @@ while True:
             userInput = list(userInput)
 
 
-        makeUpperCase()
+
         splitInput()
 
         i = 0
@@ -34,11 +32,12 @@ while True:
             i = i + 1
             if i > userOutputLan:
                 break
-            print(textTohex[useroutput[i - 1]] + " ", end='')
+            print(textToHex[useroutput[i - 1]] + " ", end='')
         print(" ")
         print("-----------------------------")
 
     if userSelect == "2":
+        from hexCodes import *
         rawUserInput = input("enter text to decode: ")
         userInput = rawUserInput
 
@@ -68,7 +67,7 @@ while True:
             i = i + 1
             if i > userOutputLan:
                 break
-            print(hexTotext[userInput[i - 1]], end='')
+            print(hexToText[useroutput[i - 1]], end='')
         print(" ")
         print("-----------------------------")
     if userSelect == "3":

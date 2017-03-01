@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['hex.py'],
+a = Analysis(['HEX.py'],
              pathex=['C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\src'],
              binaries=[],
              datas=[],
@@ -21,7 +21,7 @@ exe = EXE(pyz,
           a.binaries,
           a.zipfiles,
           a.datas,
-          name='hex',
+          name='HEX',
           debug=False,
           strip=False,
           upx=True,

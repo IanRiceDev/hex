@@ -1,2 +1,2 @@
 # hex
-##.EXE in dist sub-folder Main
+##.EXE in "Main" folder the sub-folder of dist 

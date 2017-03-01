@@ -33,13 +33,13 @@
   ('HEX',
    'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\src\\HEX.py',
    'PYSOURCE'),
-  ('VCRUNTIME140.dll',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
-   'BINARY'),
   ('python35.dll',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
    'BINARY'),
   ('_ssl',
    'C:\\Users\\Ian '

@@ -22,10 +22,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\datetime.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
-   'PYMODULE'),
   ('_compat_pickle',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_compat_pickle.py',
@@ -33,6 +29,10 @@
   ('pickle',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pickle.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Users\\Ian '
@@ -410,10 +410,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\lzma.py',
    'PYMODULE'),
-  ('_dummy_thread',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_dummy_thread.py',
-   'PYMODULE'),
   ('dummy_threading',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\dummy_threading.py',
@@ -445,6 +441,10 @@
   ('pydoc',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
    'PYMODULE'),
   ('struct',
    'C:\\Users\\Ian '
@@ -530,6 +530,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\loader.py',
    'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\warnings.py',
+   'PYMODULE'),
   ('unittest.runner',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\unittest\\runner.py',
@@ -558,24 +562,20 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\doctest.py',
    'PYMODULE'),
-  ('warnings',
+  ('_dummy_thread',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\warnings.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_dummy_thread.py',
    'PYMODULE'),
   ('hexCodes',
    'C:\\Users\\Ian Rice\\Documents\\GitHub\\hex\\src\\hexCodes.py',
    'PYMODULE')],
- [('VCRUNTIME140.dll',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('python35.dll',
+ [('python35.dll',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
    'BINARY'),
   ('_ssl',
    'C:\\Users\\Ian '

@@ -1,3 +1,3 @@
 from hexCodes import *
-textTohex = {v: k for k, v in textTohex.items()}
-print(textTohex)
+hexToText = {v: k for k, v in hexToText .items()}
+print(hexToText)

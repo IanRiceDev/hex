@@ -10,7 +10,7 @@ while True:
     userSelect = input("Make a selection: ")
 
     if userSelect == "1":
-        rawUserInput = input("enter text to encode: ")
+        rawUserInput = input("Enter text to encode: ")
         userInput = rawUserInput
 
 
@@ -30,12 +30,18 @@ while True:
         userOutputLan = len(useroutput)
 
         while True:
+            if i == userOutputLan:
+                break
+            try:
+                print(textToHex[useroutput[i]] + " ", end='')
 
+            except KeyError:
+                print("One of the char in the string is not a char that can be turned in to hex")
+                break
 
             i = i + 1
-            if i > userOutputLan:
-                break
-            print(textToHex[useroutput[i - 1]] + " ", end='')
+
+
         print(" ")
         print("-----------------------------")
 
@@ -67,11 +73,26 @@ while True:
 
         while True:
 
-            i = i + 1
-            if i > userOutputLan:
+            if i == userOutputLan:
                 break
-            print(hexToText[useroutput[i - 1]], end='')
+            try:
+                print(hexToText[useroutput[i]], end='')
+
+            except KeyError:
+                print("One of the char in the string is not a char that can be turned in to text")
+
+
+            i = i + 1
+
         print(" ")
         print("-----------------------------")
+
     if userSelect == "3":
         break
+
+    userSelectList = ["1","2","3"]
+
+    if userSelect not in userSelectList:
+        print("Please make a possible selection")
+        print(" ")
+        print("-----------------------------")

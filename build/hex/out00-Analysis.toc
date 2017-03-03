@@ -22,6 +22,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\datetime.py',
    'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
+   'PYMODULE'),
   ('_compat_pickle',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_compat_pickle.py',
@@ -258,6 +262,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\uu.py',
    'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\quopri.py',
+   'PYMODULE'),
   ('email.feedparser',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\email\\feedparser.py',
@@ -309,6 +317,10 @@
   ('email.charset',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\base64.py',
    'PYMODULE'),
   ('email._encoded_words',
    'C:\\Users\\Ian '
@@ -366,6 +378,14 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tarfile.py',
    'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_compression.py',
+   'PYMODULE'),
   ('lzma',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\lzma.py',
@@ -393,6 +413,10 @@
   ('pydoc',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\getopt.py',
    'PYMODULE'),
   ('pdb',
    'C:\\Users\\Ian '
@@ -454,14 +478,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\doctest.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('base64',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\base64.py',
-   'PYMODULE'),
   ('stat',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\stat.py',
@@ -482,58 +498,6 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\signal.py',
    'PYMODULE'),
-  ('selectors',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\selectors.py',
-   'PYMODULE'),
-  ('subprocess',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\subprocess.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\os.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
-   'PYMODULE'),
-  ('struct',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.py',
-   'PYMODULE'),
-  ('token',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\token.py',
-   'PYMODULE'),
-  ('textwrap',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('argparse',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\argparse.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('gettext',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\gettext.py',
-   'PYMODULE'),
-  ('getopt',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\getopt.py',
-   'PYMODULE'),
-  ('quopri',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\quopri.py',
-   'PYMODULE'),
-  ('_compression',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_compression.py',
-   'PYMODULE'),
   ('contextlib',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\contextlib.py',
@@ -546,6 +510,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\threading.py',
    'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\selectors.py',
+   'PYMODULE'),
   ('_dummy_thread',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\_dummy_thread.py',
@@ -554,9 +522,41 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\dummy_threading.py',
    'PYMODULE'),
-  ('bz2',
+  ('subprocess',
    'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\bz2.py',
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\os.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\token.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\struct.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\gettext.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\argparse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\copy.py',
    'PYMODULE'),
   ('warnings',
    'C:\\Users\\Ian '
@@ -569,17 +569,134 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\lib\\ctypes\\__init__.py',
    'PYMODULE')],
- [('python35.dll',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
+ [('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-stdio-l1-1-0.dll',
    'BINARY'),
   ('VCRUNTIME140.dll',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\VCRUNTIME140.dll',
    'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('python35.dll',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\python35.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'C:\\Users\\Ian Rice\\Anaconda3\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Ian '
+   'Rice\\Anaconda3\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
   ('_ssl',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('_ctypes',
    'C:\\Users\\Ian '
@@ -593,6 +710,10 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_hashlib.pyd',
    'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Ian '
+   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
   ('_lzma',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_lzma.pyd',
@@ -601,18 +722,13 @@
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('unicodedata',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
   ('select',
    'C:\\Users\\Ian '
    'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\select.pyd',
    'EXTENSION'),
-  ('_bz2',
-   'C:\\Users\\Ian '
-   'Rice\\AppData\\Local\\Programs\\Python\\Python35\\DLLs\\_bz2.pyd',
-   'EXTENSION')],
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Ian Rice\\Anaconda3\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY')],
  [],
  [],
  [('base_library.zip',
